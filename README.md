@@ -21,6 +21,6 @@ Help The Organisation to ensure that this repository is comprehensive. if there 
 
 Create a Pull Request Create a Pull Request after committing your work, If the Member of the organization accepts it they’ll merge in the changes into the repository. If not they may ask you to change the wording after having a discussion in the comments on the pull request. Or they may not merge the Pull request(which is completely fine as this experience will help you next time)
 
-#### visit OOKAI Repository:visit OOKAI Repository:So one can contribute to projects without the need to even code
+**So one can contribute to projects without the need to even code**
 
 
