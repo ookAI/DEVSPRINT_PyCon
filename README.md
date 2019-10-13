@@ -3,7 +3,8 @@
 Documentations Are of Great Value, But they are neglected sometimes, In this Devsprint We Will Focus on how to Contribute to Documentation of Machine Learning Opensource Projects.
 
 ## visit OOKAI Repository:
-Visit the ookai Repository and follow the steps given below:
+
+After visiting  the ookai Repository  follow the steps given below:
 
 Look for and read the CONTRIBUTING file Open source projects have a CONTRIBUTING section or look out the issues taged with "Documentation"
 
@@ -13,9 +14,9 @@ Write Fork the Repository then Contribute your expertise in an area by helping T
 
 Appropriate language and formatting are the basic design elements of documentation. A format that shows a hierarchical structure and a coordinate structure of information lead the fellow developer through the text. Using appropriate language is significant in providing the fellow developer with a thorough understanding of the purpose of the documentation.
 
-Use language with precision Prefer simple direct expression of ideas.
+**Use language with precision Prefer simple direct expression of ideas.**
 
-Outline sections
+**Outline sections**
 
 Help The Organisation to ensure that this repository is comprehensive. if there is a topic that is overlooked, please add it, even if it is just a stub in the form of a header and single sentence. Initially, most things fall into this category.
 
